@@ -100,9 +100,11 @@ This project focuses on detecting fraudulent online transactions for Blossom Ban
 
 2. Download the dataset from Kaggle: Online Payment Fraud Detection Dataset
 Save the file in the project directory as fraud.csv.
-Install Dependencies:
+3. Install Dependencies:
+```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
-3. Run the Notebook: Open and execute ONLINE PAYMENT FRAUD DETECTION PROJECT FOR BLOSSOM BANK.ipynb in Jupyter Notebook.
+```
+5. Run the Notebook: Open and execute ONLINE PAYMENT FRAUD DETECTION PROJECT FOR BLOSSOM BANK.ipynb in Jupyter Notebook.
 
 ## Future Scope
 Real-Time Detection: Integrate the model into a real-time transaction monitoring system.
