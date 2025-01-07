@@ -104,7 +104,7 @@ Save the file in the project directory as fraud.csv.
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
-5. Run the Notebook: Open and execute ONLINE PAYMENT FRAUD DETECTION PROJECT FOR BLOSSOM BANK.ipynb in Jupyter Notebook.
+5. Run the Notebook: Open and execute ipynb file in Jupyter Notebook.
 
 ## Future Scope
 Real-Time Detection: Integrate the model into a real-time transaction monitoring system.
